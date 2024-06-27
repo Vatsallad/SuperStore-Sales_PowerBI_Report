@@ -17,3 +17,5 @@ Insights:
   
 4) In March, profits diverged the most between 2019 and 2020, with March 2020 being higher than March 2019. This indicates a significant boost in profitability during March 2020, showcasing exceptional financial performance.
 
+I extend my heartfelt thanks to Dhaval Patel Sir, Hemanand Vadivel Sir and the entire Codebasics team for their profound knowledge of Power BI and their invaluable support in helping me create engaging dashboards. 🙏
+
