@@ -16,6 +16,7 @@ Insights:
 3) In 2019, the superstore sold 9,838 products. The following year in 2020, this number increased to 12,000 products. This indicates a significant growth in the number of products sold year over year.
   
 4) In March, profits diverged the most between 2019 and 2020, with March 2020 being higher than March 2019. This indicates a significant boost in profitability during March 2020, showcasing exceptional financial performance.
-
+   
+Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiMzlhYzBjYjAtYzJjZS00NjE2LWE1ZTgtOGRmNDE0MDlhNzY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
